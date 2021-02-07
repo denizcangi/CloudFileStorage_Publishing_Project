@@ -1,0 +1,22 @@
+The server listens on a predefined port and accepts incoming client connections. There may be one or more clients connected to the server at the same time.
+Clients connect to server on corresponding port and identify themselves with their names. 
+Server keeps the names of currently connected clients to avoid the same name to be connected more than once at a given time.
+Server can accept mulptile client connections, the connected client should have uniques names at a given time.
+The uploaded files by the connected clients are kept in a predetermined folder at the server side.
+This predetermined folder path is set by the server's GUI by browsing the file system.
+The server keeps the files uploaded by the client with the unique name of the client. The files uploaded to the predetermined folder as:
+NameOfTheClient_NameOfTheFile.txt
+If the same client adds a file with the same name, there will be a counter in the name which counts the number of times the same filename uploaded by the same client.
+The server also keeps a database, which keeps record of the name of files uploaded, name of the client, the day and time of the upload, the size of the file and the access rights of the file which is determined by the client.
+When client asks for the public/owning files list from the server, server sends this list to the client and client side shows it in the GUI.
+When client asks to copy a file, server first checks if the file is owned by this client.
+If so, server copies this file and saves it as the same name but increment the counter. Server also mentions this creation of the new file in the database.
+When client asks to delete a file, the server checks if the file is owned by this client, if so it deletes the file.
+When client asks to download his/her file, the server checks if this file is owned by this client.
+If so, the server sends this file to the determined file path of the client, which is specified in the GUI of the client.
+When client asks to download a public file of another client, the server checks if this file is owned by this client and checks if this file is public or not.
+If so, the server sends this file to the determined file path of the client, which is specified in the GUI of the client.
+When the client asks to make his/her file public, the server first checks if this file owned by the requesting client.
+If so, the server makes this file public.
+
+When server quits, all the client that is connected to that server also quits too.
