@@ -1,0 +1,56 @@
+C:\Users\pc\Desktop\GERCEKTEN_SON\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.exe.config
+C:\Users\pc\Desktop\GERCEKTEN_SON\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.exe
+C:\Users\pc\Desktop\GERCEKTEN_SON\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.pdb
+C:\Users\pc\Desktop\GERCEKTEN_SON\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.Form1.resources
+C:\Users\pc\Desktop\GERCEKTEN_SON\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.Properties.Resources.resources
+C:\Users\pc\Desktop\GERCEKTEN_SON\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\GERCEKTEN_SON\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.exe
+C:\Users\pc\Desktop\GERCEKTEN_SON\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.pdb
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.exe.config
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.exe
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.pdb
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.exe
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.pdb
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.Form1.resources
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.Properties.Resources.resources
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.csprojResolveAssemblyReference.cache
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.exe.config
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.exe
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.pdb
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.exe
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.pdb
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.csprojResolveAssemblyReference.cache
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.Form1.resources
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.Properties.Resources.resources
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.csproj.GenerateResource.Cache
+C:\Users\Gokturk\Desktop\408 projee\Project\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.exe.config
+C:\Users\Gokturk\Desktop\408 projee\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.exe
+C:\Users\Gokturk\Desktop\408 projee\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.pdb
+C:\Users\Gokturk\Desktop\408 projee\Project\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.exe
+C:\Users\Gokturk\Desktop\408 projee\Project\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.pdb
+C:\Users\Gokturk\Desktop\408 projee\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.csprojResolveAssemblyReference.cache
+C:\Users\Gokturk\Desktop\408 projee\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.Form1.resources
+C:\Users\Gokturk\Desktop\408 projee\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.Properties.Resources.resources
+C:\Users\Gokturk\Desktop\408 projee\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Project\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.exe.config
+C:\Users\pc\Desktop\Project\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.exe
+C:\Users\pc\Desktop\Project\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.pdb
+C:\Users\pc\Desktop\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.Form1.resources
+C:\Users\pc\Desktop\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.Properties.Resources.resources
+C:\Users\pc\Desktop\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.exe
+C:\Users\pc\Desktop\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.pdb
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.exe.config
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.exe
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.pdb
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.exe
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.pdb
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.Form1.resources
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\408_PROJECT_FINAL\Project\client\CS408Project_client\CS408Project_client\bin\Release\CS408Project_client.exe.config
+\\vmware-host\Shared Folders\Desktop\408_PROJECT_FINAL\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.exe
+\\vmware-host\Shared Folders\Desktop\408_PROJECT_FINAL\Project\client\CS408Project_client\CS408Project_client\obj\Release\CS408Project_client.pdb
