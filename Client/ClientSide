@@ -1,0 +1,13 @@
+Client connects to the server with the IP address and TCP port that server is listening.
+Client should connect to the server with unique name at a given time. There could be any number of clients in the system at a given time.
+Connected client can upload files (text files of any length) to the server, these files will be stored by the server in a predetermined folder.
+Client can request her own file list from the server.
+Client is able to download her own files from the server with entering the name of the file to be downloaded and the folder to be saved to.
+Client is able to create a copy of her own files on the server without resending with entering the name of the file.
+Client is able to deleter her own files from the server side.
+Client is able to make her own files public to all clients of the server. First when the client upload a new file to the server, this file is private. 
+To make a file public, the client should enter the file name and make this file public.
+After the file is made public by the owning client, all client get access to download it but they cannot copy or deleter this file.
+When the owner of the public file copies this file, then the access right of the original file will be passed to the new copy.
+Client is able to request the public file list from the server.
+Client is able to download a public file with specifying the name of the owner of this file.
